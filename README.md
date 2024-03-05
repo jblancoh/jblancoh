@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer (Web/Mobile)
 ----------------------
 
-I've been learning to code from 2017. I started with HTML, CSS and Javascript. I really love the frontend development but now I am Fullstack Engineer and Tech Lead in a Mexico startup.
+I've been learning to code from 2017. I started with HTML, CSS and Javascript. I really love the frontend development but now I am Fullstack Engineer in a Mexican company.
 
 * 🌍  I'm based in Tabasco, Mexico
 * ✉️  You can contact me at [jblancoh26@gmail.com](mailto:jblancoh26@gmail.com)
-* 🚀  I'm currently working on [Graviti](http://www.graviti.mx/)
+* 🚀  I'm currently working on [RADIUS](https://descubreradius.com)
 * 🧠  I'm learning a new technical lead skill
 * 🤝  I'm open to collaborating on All projects open source
 * ⚡  I love sports
