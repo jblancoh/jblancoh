@@ -26,6 +26,8 @@ I've been learning to code from 2017. I started with HTML, CSS and Javascript. I
 
 <a href="https://app.daily.dev/barrilitodev"><img src="https://api.daily.dev/devcards/v2/5y_u5GFCh.png?type=default&r=1ft" width="356" alt="Jonathan Blanco Hernandez's Dev Card"/></a>
 
+[![An image of @jblancoh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jblancoh)](https://holopin.io/@jblancoh)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jblancoh"><img src="https://github-readme-stats.vercel.app/api?username=jblancoh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jblancoh's GitHub stats" /></a>
