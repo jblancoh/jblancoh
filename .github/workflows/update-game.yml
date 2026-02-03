@@ -19,3 +19,18 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: "game.gif"
           strategy: "random"
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pull latest changes
+        run: |
+          git pull --rebase origin main
+
+      - name: Commit and Push changes
+        run: |
+          git add game.gif
+          git commit -m "Update space shooter game" || echo "No changes to commit"
+          git push origin main
