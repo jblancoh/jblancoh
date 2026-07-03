@@ -28,6 +28,8 @@ I've been learning to code from 2017. I started with HTML, CSS and Javascript. I
 
 <a href="https://app.daily.dev/barrilitodev"><img src="https://api.daily.dev/devcards/v2/5y_u5GFCh.png?type=default&r=1ft" width="356" alt="Jonathan Blanco Hernandez's Dev Card"/></a>
 
+  [<img width="332" height="504" alt="image" src="https://github.com/user-attachments/assets/69889764-1fec-4958-9917-23d215645bf6" />](https://gitfut.com/jblancoh?country=mx)
+
 [![An image of @jblancoh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jblancoh)](https://holopin.io/@jblancoh)
 
 <b>My GitHub Stats</b>
